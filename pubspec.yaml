@@ -9,13 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  rxdart: ^0.23.1
+  rxdart: ^0.26.0
   esc_pos_utils: ^0.3.6
   # esc_pos_utils:
     # path: ../esc_pos_utils
   flutter_bluetooth_basic:
     git:
-      url: git://github.com/gunantosteven/flutter_bluetooth_basic.git
+      url: git://github.com/ttyniwa/flutter_bluetooth_basic.git
+      ref: feature/refactoring-for-android-gradle-plugin-upgrade 
 
 dev_dependencies:
   flutter_test:
