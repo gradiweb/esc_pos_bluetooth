@@ -101,9 +101,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "feature/refactoring-for-android-gradle-plugin-upgrade"
-      resolved-ref: "65e7b98b06c2fdc8da5dc1ed3b50548496f69b87"
-      url: "git://github.com/ttyniwa/flutter_bluetooth_basic.git"
+      ref: android-embedding
+      resolved-ref: "7638e6d60c2a9b2a2d22193310c6b2172644d4e0"
+      url: "git://github.com/gunantosteven/flutter_bluetooth_basic.git"
     source: git
     version: "0.1.6"
   flutter_test:

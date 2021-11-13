@@ -15,8 +15,8 @@ dependencies:
     # path: ../esc_pos_utils
   flutter_bluetooth_basic:
     git:
-      url: git://github.com/ttyniwa/flutter_bluetooth_basic.git
-      ref: feature/refactoring-for-android-gradle-plugin-upgrade 
+      url: git://github.com/gunantosteven/flutter_bluetooth_basic.git
+      ref: android-embedding
 
 dev_dependencies:
   flutter_test:
