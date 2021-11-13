@@ -16,7 +16,6 @@ dependencies:
   flutter_bluetooth_basic:
     git:
       url: git://github.com/gunantosteven/flutter_bluetooth_basic.git
-      ref: android-embedding
 
 dev_dependencies:
   flutter_test:
